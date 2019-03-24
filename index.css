@@ -26,6 +26,7 @@
     text-align: center;
     position: right;
     overflow: auto;
+    float: center;
 }
 
 .profile {
